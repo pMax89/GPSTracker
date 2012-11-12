@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WalkAbout</string>
+    <string name="mapApiKey">INSERT_YOUR_API_KEY_HERE</string> 
+    
+    <!--  MenuItem titles -->
+    <string name="startRecording">Start</string>
+    <string name="stopRecording">Stop</string>
+    <string name="load">Load</string>
+    <string name="save">Save</string>
+    <string name="takePicture">Take Picture</string>
+    <string name="enableGPS">Enable GPS</string>
+    
+    <!-- CameraPreview Result strings-->
+    <string name="pictureFail">Picture Not Taken...</string>
+    <string name="pictureSuccess">Picture Taken</string>
+    
+    <!-- Load/Save strings-->
+    <string name="geoPathFileName">walkabout.dat</string>
+    <string name="saveSuccess">Saved...</string>
+    <string name="saveFailed">Save Failed...</string>
+    <string name="saveNoData">Nothing to save...</string>
+    <string name="loadSuccess">Loaded...</string>
+    <string name="loadFailed">Load Failed...</string>
+    <string name="loadNoFile">Nothing to load...</string>
+ 
+</resources>
